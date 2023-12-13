@@ -7,15 +7,15 @@ Während diversen Veranstaltungen um und mit [name=@Yolgie]] wurde aus diversen 
 
 Zuletzt wurden die Installationen auf der KIF 51.5 als Unisex-Toiletten*Spülmaschinenerlebnis auch dokumentiert und gewürdigt.[^3][^4][^5]
 
-== Technische Versionen ==
-=== Nur Audio ===
+## Technische Versionen 
+### Nur Audio
 Die auf der KIF 51.5 installierte Version der Potty Boom Boom - Mountain Box Editon bestand aus 3 abwechselnd verwendeten Bluetooth-Soundsysteme.[^7][^8][^9]
 
 Die Soundsysteme wurden bestückt mit einer MicroSD Karte mit der Audio-Version der 4h Interpretation des Liedes.[^3] Einmal aktiviert und gestartet wird, im Musik oder Mountain Modus, nahtlos das nächste Lied, und in Abwesenheit dessen, den selben Song nochmal[^10] gespielt.
 
 Diese Version hat den großen Vorteil unabhängig von etwaiger Stromversorgung in dem Erlebnisort zu sein. Allerdings muss durch die Verwendung von Batterien mit mehreren redundanten Geräten gearbeitet werden um durchgehende Freude zu gewähleisten. Diese werden ausserhalb des Einsatzes geladen und von Fachpersonal (Orga) bei zeiten ausgetauscht.
 
-=== Multimodal (Audio & Video) ===
+### Multimodal (Audio & Video)
 Die multimodale Version (Audio & Video) wurde zur KIF 51.5 transportiert, erlitt jedoch kritische Transportschäden (SD Card gebrochen), die eine komplette Neueinrichtung des Systems verlangte. Leider war so viel anderes geiles auf der KIF zu sehn, tun, erleben, dass die Reparatur nicht wärend der KIF 51.5 fertiggestellt wurde.
 
 In Grundzügen handelt es sich um einen Bildschirm & Soundausgabegerät (kombiniert, Baujahr 2003, andere Modelle möglich) der mit einem Raspberry Pi betrieben wird. In der Regel wird das System ausserhalb der Reichweite der Besucher aber in deren Sicht in der Toilette montiert und spielt die Video-Version der 4h Interpretation des Liedes.[^3]
