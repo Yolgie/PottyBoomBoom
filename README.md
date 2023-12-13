@@ -3,7 +3,7 @@
 ## Historische Entwicklung
 Potty Boom Boom war ursprünglich ein Projekt des EH16[^1] um die Nutzung der Toiletten unterhaltsamer und effizienter zu gestalten.
 
-Während diversen Veranstaltungen um und mit [name=@Yolgie] wurde aus diversen Gründen der Song "Shatner on the Mount" der Band "Fall On Your Sword"[^2] in der vierstündige musikalischen Interpretation von Real Music[^3] die Bespielung der Wahl.
+Während diversen Veranstaltungen um und mit @Yolgie wurde aus diversen Gründen der Song "Shatner on the Mount" der Band "Fall On Your Sword"[^2] in der vierstündige musikalischen Interpretation von Real Music[^3] die Bespielung der Wahl.
 
 Zuletzt wurden die Installationen auf der KIF 51.5 als Unisex-Toiletten*Spülmaschinenerlebnis auch dokumentiert und gewürdigt.[^3][^4][^5]
 
