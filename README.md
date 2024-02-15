@@ -1,7 +1,7 @@
 # Potty Boom Boom - Mountain Box Edition
 
 ## Historische Entwicklung
-Potty Boom Boom war ursprünglich ein Projekt des EH16[^1] um die Nutzung der Toiletten unterhaltsamer und effizienter zu gestalten.
+Potty Boom Boom war ursprünglich ein Projekt des EH16[^1][^11] um die Nutzung der Toiletten unterhaltsamer und effizienter zu gestalten.
 
 Während diversen Veranstaltungen um und mit @Yolgie wurde aus diversen Gründen der Song "Shatner on the Mount" der Band "Fall On Your Sword"[^2] in der vierstündige musikalischen Interpretation von Real Music[^3] die Bespielung der Wahl.
 
@@ -34,3 +34,4 @@ Trotz des höheren logistischen und Planungsaufwands ist die multimodale Version
 [^8]: Amazon.de - MIFA Bluetooth Lautsprecher 30W, A20 Musikbox Starkbass echtes kabelloses Stereo unterstützt 3,5mm Audioeingang Micro SD Karte 12 Spelzeit 4000mAh; https://www.amazon.de/gp/product/B07B91FCTQ. gekauft Nov 27 2021
 [^9]: Amazon.de - Ortizan Bluetooth Lautsprecher mit Licht, Musikbox Tragbarer Bluetooth Box mit IPX7 wasserdicht, Dualen Bass-Treibern, 30h Akku, Freisprechfunktion für Phone, Draußen, Beidhändig Schwarz; https://www.amazon.de/dp/B08QF9F8BC. gekauft Nov. 6, 2023
 [^10]: YouTube - Spielt den selben Song nochmal — Cantina Band Blue Harvest; https://www.youtube.com/watch?v=PgKw__lWALI. Jan 30, 2017, retrieved 2023-11-07
+[^11]: The original Potty Boom Boom instructions; https://github.com/AMD1212/potty-boom-boom.
